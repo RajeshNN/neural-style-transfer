@@ -1,1 +1,1 @@
-# Neural Style Transfer with Pretrained Pytorch model + color transfer
+# Neural Style Transfer using Pretrained Pytorch model with color transfer
